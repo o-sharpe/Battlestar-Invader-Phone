@@ -1,0 +1,15 @@
+C:\Users\Oliver\Documents\Visual Studio 2012\Projects\Battlestar Invader Phone\Screen\Bin\Debug\Screen.dll
+C:\Users\Oliver\Documents\Visual Studio 2012\Projects\Battlestar Invader Phone\Screen\Bin\Debug\Screen.pdb
+C:\Users\Oliver\Documents\Visual Studio 2012\Projects\Battlestar Invader Phone\Screen\Bin\Debug\MonoGame.Framework.dll
+C:\Users\Oliver\Documents\Visual Studio 2012\Projects\Battlestar Invader Phone\Screen\Bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\Oliver\Documents\Visual Studio 2012\Projects\Battlestar Invader Phone\Screen\Bin\Debug\SharpDX.dll
+C:\Users\Oliver\Documents\Visual Studio 2012\Projects\Battlestar Invader Phone\Screen\Bin\Debug\SharpDX.XAudio2.dll
+C:\Users\Oliver\Documents\Visual Studio 2012\Projects\Battlestar Invader Phone\Screen\Bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Oliver\Documents\Visual Studio 2012\Projects\Battlestar Invader Phone\Screen\Bin\Debug\SharpDX.DXGI.dll
+C:\Users\Oliver\Documents\Visual Studio 2012\Projects\Battlestar Invader Phone\Screen\Bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\Oliver\Documents\Visual Studio 2012\Projects\Battlestar Invader Phone\Screen\Bin\Debug\SharpDX.xml
+C:\Users\Oliver\Documents\Visual Studio 2012\Projects\Battlestar Invader Phone\Screen\Bin\Debug\SharpDX.XAudio2.xml
+C:\Users\Oliver\Documents\Visual Studio 2012\Projects\Battlestar Invader Phone\Screen\Bin\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Oliver\Documents\Visual Studio 2012\Projects\Battlestar Invader Phone\Screen\Bin\Debug\SharpDX.DXGI.xml
+C:\Users\Oliver\Documents\Visual Studio 2012\Projects\Battlestar Invader Phone\Screen\obj\Debug\Screen.dll
+C:\Users\Oliver\Documents\Visual Studio 2012\Projects\Battlestar Invader Phone\Screen\obj\Debug\Screen.pdb

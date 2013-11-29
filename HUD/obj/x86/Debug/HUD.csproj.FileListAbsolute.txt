@@ -1,0 +1,17 @@
+C:\Users\Oliver\Documents\Visual Studio 2012\Projects\Battlestar Invader Phone\HUD\Bin\x86\Debug\HUD.dll
+C:\Users\Oliver\Documents\Visual Studio 2012\Projects\Battlestar Invader Phone\HUD\Bin\x86\Debug\HUD.pdb
+C:\Users\Oliver\Documents\Visual Studio 2012\Projects\Battlestar Invader Phone\HUD\Bin\x86\Debug\MonoGame.Framework.dll
+C:\Users\Oliver\Documents\Visual Studio 2012\Projects\Battlestar Invader Phone\HUD\Bin\x86\Debug\Screen.dll
+C:\Users\Oliver\Documents\Visual Studio 2012\Projects\Battlestar Invader Phone\HUD\Bin\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Oliver\Documents\Visual Studio 2012\Projects\Battlestar Invader Phone\HUD\Bin\x86\Debug\SharpDX.dll
+C:\Users\Oliver\Documents\Visual Studio 2012\Projects\Battlestar Invader Phone\HUD\Bin\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Oliver\Documents\Visual Studio 2012\Projects\Battlestar Invader Phone\HUD\Bin\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Oliver\Documents\Visual Studio 2012\Projects\Battlestar Invader Phone\HUD\Bin\x86\Debug\Screen.pdb
+C:\Users\Oliver\Documents\Visual Studio 2012\Projects\Battlestar Invader Phone\HUD\Bin\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Oliver\Documents\Visual Studio 2012\Projects\Battlestar Invader Phone\HUD\Bin\x86\Debug\SharpDX.xml
+C:\Users\Oliver\Documents\Visual Studio 2012\Projects\Battlestar Invader Phone\HUD\Bin\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Oliver\Documents\Visual Studio 2012\Projects\Battlestar Invader Phone\HUD\Bin\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Oliver\Documents\Visual Studio 2012\Projects\Battlestar Invader Phone\HUD\obj\x86\Debug\HUD.csprojResolveAssemblyReference.cache
+C:\Users\Oliver\Documents\Visual Studio 2012\Projects\Battlestar Invader Phone\HUD\obj\x86\Debug\HUD.dll
+C:\Users\Oliver\Documents\Visual Studio 2012\Projects\Battlestar Invader Phone\HUD\obj\x86\Debug\HUD.pdb
+C:\Users\Oliver\Documents\Visual Studio 2012\Projects\Battlestar Invader Phone\HUD\Bin\x86\Debug\MonoGame.Framework.pdb
